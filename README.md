@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Home Depot products</h2>
 
-![Home Depot products dataset header](https://github.com/luminati-io/Zara-dataset-sample/blob/main/Zara-datasets.png)
+![Home Depot products dataset header](https://github.com/luminati-io/Home-Depot-dataset-sample/blob/main/Home-Depot-datasets.png)
 
 A Home Depot products dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
