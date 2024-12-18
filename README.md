@@ -42,7 +42,7 @@ A Home Depot products dataset sample of over 1000 records. Dataset was extracted
 And a lot more.
 
 This is a sample subset which is derived from the "Home Depot products"
-dataset which includes more than <b3.5M records</b>.
+dataset which includes more than <b>3.5M records</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
